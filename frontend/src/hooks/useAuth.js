@@ -1,0 +1,2 @@
+// Re-export the useAuth hook from AuthContext for convenient imports
+export { useAuth } from '../context/AuthContext'
